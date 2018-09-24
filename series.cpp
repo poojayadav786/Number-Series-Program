@@ -1,4 +1,4 @@
-nt #include<iostream>
+#include<iostream>
 using namespace std;
 int prime(int a){
     int s,j=2;
